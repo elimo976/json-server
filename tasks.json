@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "title": "Fare la spesa",
+      "cat": "casa",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Ricontrollare modifiche progetto",
+      "cat": "lavoro",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Andare ad acrobatica aerea",
+      "cat": "tempo libero",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Dare farmaco a Manola",
+      "cat": "animali",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Fare briefing",
+      "cat": "lavoro",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Ordinare crocchette cani",
+      "cat": "animali",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Prenotare escursione",
+      "cat": "tempo libero",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "Chiamare idraulico",
+      "cat": "casa",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "Sistemare giardino",
+      "cat": "casa",
+      "completed": true,
+      "id": 9
+    }
+  ]
+}
