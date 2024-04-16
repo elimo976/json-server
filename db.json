@@ -1,0 +1,161 @@
+{
+  "tasks": [
+    {
+      "title": "Fare la spesa",
+      "cat": "casa",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Ricontrollare modifiche progetto",
+      "cat": "lavoro",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Andare ad acrobatica aerea",
+      "cat": "tempo libero",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Dare farmaco a Manola",
+      "cat": "animali",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Fare briefing",
+      "cat": "lavoro",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Ordinare crocchette cani",
+      "cat": "animali",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Prenotare escursione",
+      "cat": "tempo libero",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "Chiamare idraulico",
+      "cat": "casa",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "Sistemare giardino",
+      "cat": "casa",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "title": "aaaaaaaaaaa",
+      "cat": "casa",
+      "completed": true,
+      "id": 10
+    }
+  ],
+  "contatti": [
+    {
+      "id": "1",
+      "tipologia": "persona fisica",
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "ragioneSociale": "",
+      "indirizzo": [
+        {
+          "viaECivico": "Via Bologna 4",
+          "citta": "Roma",
+          "provincia": "RM",
+          "cap": "00100",
+          "nazione": "Italia"
+        }
+      ],
+      "indirizzoEmail": "mariorossi@gmail.com",
+      "numeroTelefono": "+39 1234567",
+      "dataNascita": "01 gennaio 2001"
+    },
+    {
+      "id": "2",
+      "tipologia": "persona giuridica",
+      "nome": "",
+      "cognome": "",
+      "ragioneSociale": "Costruzioni Verdi e Partners",
+      "indirizzo": [
+        {
+          "viaECivico": "Via Trieste 34",
+          "citta": "Torino",
+          "provincia": "TO",
+          "cap": "10121",
+          "nazione": "Italia"
+        }
+      ],
+      "indirizzoEmail": "costruzioniverdi@gmail.com",
+      "numeroTelefono": "+39 7654321",
+      "dataNascita": ""
+    },
+    {
+      "id": "3",
+      "tipologia": "persona giuridica",
+      "nome": "",
+      "cognome": "",
+      "ragioneSociale": "Artigianato Creativo S.n.c.",
+      "indirizzo": [
+        {
+          "viaECivico": "Via Pomezia 31",
+          "citta": "Varese",
+          "provincia": "VA",
+          "cap": "21100",
+          "nazione": "Italia"
+        }
+      ],
+      "indirizzoEmail": "artigianatocreativo@gmail.com",
+      "numeroTelefono": "+39 4321765",
+      "dataNascita": ""
+    },
+    {
+      "id": "4",
+      "tipologia": "persona fisica",
+      "nome": "Emilia",
+      "cognome": "Verdi",
+      "ragioneSociale": "",
+      "indirizzo": [
+        {
+          "viaECivico": "Via Taranto 42",
+          "citta": "Mantova",
+          "provincia": "MN",
+          "cap": "46100",
+          "nazione": "Italia"
+        }
+      ],
+      "indirizzoEmail": "emiliaverdi@gmail.com",
+      "numeroTelefono": "+39 4512367",
+      "dataNascita": "15 febbraio 1985"
+    },
+    {
+      "id": "5",
+      "tipologia": "persona fisica",
+      "nome": "Giuseppe",
+      "cognome": "Neri",
+      "ragioneSociale": "",
+      "indirizzo": [
+        {
+          "viaECivico": "Via Palermo 51",
+          "citta": "Napoli",
+          "provincia": "NA",
+          "cap": "80100",
+          "nazione": "Italia"
+        }
+      ],
+      "indirizzoEmail": "giuseppeneri@gmail.com",
+      "numeroTelefono": "+39 6745123",
+      "dataNascita": "10 luglio 1999"
+    }
+  ]
+}
