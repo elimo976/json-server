@@ -157,5 +157,13 @@
       "numeroTelefono": "+39 6745123",
       "dataNascita": "10 luglio 1999"
     }
+  ],
+  "autenticazione": [
+    {
+      "id": 1,
+      "username": "elisa@mail.com",
+      "password": "1234",
+      "remember": false
+    }
   ]
 }
