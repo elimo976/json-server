@@ -578,7 +578,7 @@
         "Grigio"
       ],
       "descrizione": "Le Nike Air Max 2090 sono ispirate all'iconica Air Max 90, con un design futuristico e un'ammortizzazione avanzata.",
-      "immagine": "https://kingattitude.it/public/prodotti/zoom/DH7708-003-PHSRH000-3144-210712125115938.png?ver=2024041615",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-6d88b29d-c293-4af0-af0d-68f529c6e515/scarpa-air-max-2090-qKFP6H.png",
       "nuovi_arrivi": false,
       "best_seller": 2
     },
@@ -1391,6 +1391,32 @@
       "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/88c3280a-1b77-4cf9-957f-d71b91e90393/scarpa-da-running-su-strada-revolution-6-FgfhgR.png",
       "nuovi_arrivi": false,
       "best_seller": 5
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "username": "Elisa",
+      "email": "elisa@gmail.com",
+      "password": "123"
+    },
+    {
+      "username": "pippo",
+      "email": "pippo@gmail.com",
+      "password": "456",
+      "id": 2
+    },
+    {
+      "username": "ElisaMmm",
+      "email": "elisamorreale@gmail.com",
+      "password": "654",
+      "id": 3
+    },
+    {
+      "username": "fddfdf",
+      "email": "dfdfd@fgff.hh",
+      "password": "12345",
+      "id": 4
     }
   ]
 }
